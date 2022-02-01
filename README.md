@@ -5,9 +5,9 @@ https://github.com/MMIRouen76/ProjetSpotify.git
 Une petite description du projet
 
 ## Fabriqué avec  
-    * __HTML__
-    * __CSS__
-
+* __HTML__
+* __CSS__
+-----------------------------------------------------------------------------------
 ## Auteurs  
-    * Floriiiiiine Grimal
-    * Romain Gérard
+* Floriiiiiine Grimal
+* Romain Gérard

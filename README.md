@@ -1,7 +1,7 @@
 # Projet Spotify
 
 Ce projet consiste en la reconstitution en équipe de la section "Télécharger" de Spotify
->Site modèle : __[Spotify](https://www.spotify.com/fr/download/windows/)__
+>Site modèle : *[Spotify](https://www.spotify.com/fr/download/windows/)*
 -----------------------------------------------------------------------------------
 ## Fabriqué avec  
 * __HTML__
